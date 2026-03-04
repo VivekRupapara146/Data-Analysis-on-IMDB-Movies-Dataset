@@ -77,15 +77,6 @@ Through this analysis, we discovered patterns in movie production, audience pref
 ├── IMDB_Movies_Analysis.ipynb     # Main analysis notebook
 ├── IMDB_dataset.csv               # Dataset file
 ├── README.md                      # This file
-└── visualizations/                # Generated plots and charts
-    ├── correlation_heatmap.png
-    ├── voting_per_year.png
-    ├── revenue_per_year.png
-    ├── director_ratings.png
-    ├── movies_per_year.png
-    ├── popular_movies.png
-    ├── rating_categories.png
-    └── additional_insights.png
 ```
 
 ## How to Use
